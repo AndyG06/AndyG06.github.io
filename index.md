@@ -3,7 +3,7 @@
 
 I am a computer engineering major at CSUF and I am planning on graduating in 2030.
 
-## My Favorite Labs of CPSC 120L 
+## My Favorite Labs of CPSC 120L
 
 * Lab 1, part 1 
 
